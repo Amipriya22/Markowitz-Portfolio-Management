@@ -62,6 +62,3 @@ This project applies the principles of Markowitz Portfolio Theory to construct a
 - Constructed a diversified portfolio with superior Sharpe Ratio and lower volatility than the benchmark.
 - Demonstrated practical application of financial theory in portfolio construction and performance evaluation.
 
----
-
-Project developed under the Science and Technology Council (SNT), IIT Kanpur – Semester II, 2020–21.
